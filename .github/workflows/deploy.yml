@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+
+env:
+  THEME_NAME: minimal
  
 permissions:
   contents: read
@@ -26,12 +29,14 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3  # обновим версию
+        uses: actions/upload-pages-artifact@v3 
         with:
-          name: github-pages  # явно указываем имя
+          name: github-pages
           path: public
           retention-days: 1
  
