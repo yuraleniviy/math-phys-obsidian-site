@@ -29,9 +29,11 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3  # обновим версию
         with:
+          name: github-pages  # явно указываем имя
           path: public
+          retention-days: 1
  
   deploy:
     needs: build
