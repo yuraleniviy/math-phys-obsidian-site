@@ -1,0 +1,103 @@
+[33m391864a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Quartz sync: Feb 24, 2026, 10:28 PM
+[33m94254a2[m Quartz sync: Feb 24, 2026, 10:22 PM
+[33m714526b[m Quartz sync: Feb 24, 2026, 9:45 PM
+[33mb723a10[m Quartz sync: Feb 24, 2026, 8:42 PM
+[33mb145eb1[m Quartz sync: Feb 24, 2026, 8:03 PM
+[33mc0b6e9a[m Quartz sync: Feb 24, 2026, 7:44 PM
+[33m21d0c0f[m Quartz sync: Feb 24, 2026, 7:42 PM
+[33m041b67b[m Quartz sync: Feb 24, 2026, 7:28 PM
+[33m1830fdc[m Quartz sync: Feb 24, 2026, 6:34 PM
+[33m963d6be[m Quartz sync: Feb 24, 2026, 6:13 PM
+[33m22e4a0f[m[33m ([m[1;31morigin/v4[m[33m)[m Quartz sync: Feb 24, 2026, 6:01 PM
+[33meeaac67[m Quartz sync: Feb 24, 2026, 5:56 PM
+[33mec00a40[m[33m ([m[1;31morigin/v5[m[33m)[m chore(deps): bump the production-dependencies group with 4 updates (#2289)
+[33m25a6747[m chore(deps): bump the production-dependencies group across 1 directory with 5 updates (#2282)
+[33mb4fb0e6[m fix(explorer): mobile scroll containment (#2283)
+[33mf346a01[m feat(explorer): Add active class to current folder in explorer (#2196)
+[33mc2dcc63[m feat: add scroll padding for mobile screen (#2249)
+[33mc2bea8a[m fix(citation): Language parameter for non en-US settings (#2075)
+[33mfa8d87a[m docs: link fixes and cleanup
+[33m65c5b27[m chore(deps): bump the production-dependencies group with 3 updates (#2270)
+[33m5208a96[m fix(build.ts/startWatching): add option `awaitWriteFinish` with 250ms threshold (#2235)
+[33m31ea785[m chore(deps): bump preact in the production-dependencies group (#2266)
+[33m7dc826b[m fix(css): darkmode + readermode safari height
+[33m11ab6da[m chore(deps): bump the ci-dependencies group with 3 updates (#2251)
+[33mde1e750[m chore(deps): bump the production-dependencies group across 1 directory with 4 updates (#2261)
+[33m9c042dd[m fix(helpers): correct regex of function escapePath (#2254)
+[33mbacd19c[m feat: implement touch dragging event (#2224)
+[33m722277b[m chore(deps-dev): bump the production-dependencies group with 2 updates (#2241)
+[33me6cc9ba[m fix: pass mathjax macros to rehype correctly (#2218)
+[33m643aca5[m fix(LaTex/render/Typst): Add stroke color to typst-doc styles (#2237)
+[33mec26ebc[m feat: improve search tokenization for CJK languages (#2231)
+[33m19e324d[m chore(deps): bump the production-dependencies group across 1 directory with 7 updates (#2233)
+[33m368203c[m chore(deps): bump the ci-dependencies group across 1 directory with 2 updates (#2234)
+[33m13ff64d[m feat(i18n): update Vietnamese translations (#2228)
+[33m87f7f48[m Prevent double-loading of afterDOMReady scripts (#2213)
+[33mc99c807[m chore(deps): bump the production-dependencies group across 1 directory with 7 updates (#2210)
+[33me7d2a57[m[33m ([m[1;31morigin/scss-import[m[33m, [m[1;31morigin/obsidian-checkboxes[m[33m)[m Fix optional chaining in tag explorer exclude example (#2200)
+[33mef29c69[m add rybbit analytics (#2197)
+[33m86a30ad[m fix(callouts): set height to entire callout content (#2194)
+[33m45d2ef8[m chore(deps): bump the production-dependencies group with 3 updates (#2190)
+[33m0ecb859[m feat(i18n): update Italian translations for coherency (#2189)
+[33m2fdc812[m fix(components): prevent infinite recursion from circular transcludes (#2187)
+[33m8bc6cb9[m fix(css): not break word in the search button placeholder (#2182)
+[33maf5773f[m fix(api): adapt to updated API parameter format from (#2185)
+[33m4260214[m feat(i18n): add Hebrew translations for UI components and pages (#2186)
+[33m0c4386d[m feat(i18n): add Kazakh translations for UI components and pages (#2056)
+[33m08c8617[m fix(explorer): Disable keyboard navigation on collapsed folders (#2169)
+[33m1377004[m chore(deps): bump the production-dependencies group across 1 directory with 6 updates (#2177)
+[33m519d56c[m chore(deps): bump the ci-dependencies group across 1 directory with 5 updates (#2178)
+[33m52460f3[m fix: modified time data of frontmatter didnt loaded. (#2165)
+[33mb4805a1[m chore(deps): bump the production-dependencies group with 3 updates (#2159)
+[33mf14260b[m fix(oxhugo): Do not discard embedded HTML (#2151)
+[33m9ad3481[m chore(deps): bump the production-dependencies group with 4 updates (#2146)
+[33m3ff7ca4[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#2135)
+[33meb6cc6f[m chore(deps): bump the production-dependencies group with 9 updates (#2134)
+[33m4923aff[m[33m ([m[1;33mtag: [m[1;33mv4.5.2[m[33m)[m fix(callouts)!: match callout DOM to Obsidian (#2104)
+[33m4c78d29[m fix(search): css min padding
+[33m7a77f54[m fix(i18n): Add RTL Detection based on Config Set Language (#2100)
+[33m03ccac2[m feat: Update FlexSearch and Add Support for All Languages (#2108)
+[33m6add0c8[m fix(style): layout flow, search restyle
+[33m8df8d5c[m fix: fix CNAME path error (#2096)
+[33mac06a52[m chore(deps): bump the production-dependencies group with 3 updates (#2122)
+[33m6457ad2[m chore(deps): bump actions/setup-node in the ci-dependencies group (#2123)
+[33m05e4f42[m docs: update nav for cloudflare pages (#2130)
+[33m7bcab60[m Update de-DE.ts (#2128)
+[33me77a051[m feat(analytics): add support for Vercel Web Analytics provider (#2119)
+[33mecb3d92[m Fix: normalize chokidar paths for hot reload on Windows (#2120)
+[33m42052eb[m chore(deps): bump the production-dependencies group across 1 directory with 9 updates (#2106)
+[33ma402828[m docs: remove out of date admonition (#2114)
+[33m0a57d03[m feat(typst): invert the math equation for typst rendered equation in darkmode (#2095)
+[33mebff661[m Add pl translation for search placeholder (#2090)
+[33me918f11[m feat: add support for matomo analytics (#2051)
+[33m45c130b[m chore(deps): bump the ci-dependencies group across 1 directory with 3 updates (#2080)
+[33mbb22312[m chore(deps): bump the production-dependencies group across 1 directory with 6 updates (#2082)
+[33m53d6e18[m fix(a11y): aria-controls and role fixes
+[33m9105984[m fix(search): prevent Enter key handling during IME composition (#2070)
+[33mefddd79[m revert(graph): roll back changes due to issues with Safari (#2067)
+[33m8d19bc3[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#2057)
+[33m2c53654[m chore(deps): bump the production-dependencies group across 1 directory with 14 updates (#2066)
+[33m059848f[m fix(rss): add cdata to escape html content for rss feed (#2046)
+[33macfaa47[m chore: add PR templates (#2045)
+[33m7253557[m fix(goatcounter): properly count SPA page hits (#2035)
+[33m82c53a1[m fix docs for using custom components compositionally (#2044)
+[33meceefd1[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#2028)
+[33m40f30be[m fix(emoji): duplicate mappings (#2042)
+[33m4678964[m fix(emoji): added missing skintone variations to emoji map (#2040)
+[33m74606a1[m fix(emoji): map multi-unicode emoji properly (#2037)
+[33m930eb1c[m fix(cli): filter files on rebuild using --serve (#2039)
+[33m52a5196[m chore: converted Emoji version 16 (#2018)
+[33mcdd0be2[m feat(giscus): expose language option for Comments component (#2012)
+[33m9de370a[m watcher: manually ignore .git changes
+[33mae0466e[m css: unapply redundant bg on section
+[33m499adf4[m fix(ios): mobile explorer overscroll behavior (#2008)
+[33mcd13ce3[m docs: clarify parens on ignorePatterns (closes #2009)
+[33mb48aa91[m fix(flex): respect DesktopOnly and MobileOnly components (#1971)
+[33m7b052e8[m docs: added note to not forget to add https:// to the plausible-host (for #1337) (#2000)
+[33m1cfc876[m fix: tz-less date parse in local tz instead of utc (closes #1615)
+[33m096ef22[m docs: fix explorernode references (closes #1985)
+[33mbc16822[m docs: showcase housekeeping
+[33m7fa9253[m[33m ([m[1;33mtag: [m[1;33mv4.5.1[m[33m)[m Node 22 (#1997)
+[33m996d8d5[m chore(deps): bump the production-dependencies group across 1 directory with 9 updates (#1996)
+[33m951d1de[m chore(deps): replace `chalk` and `rimraf` with builtin functions (#1879)
+[33m51b43a2[m feat(links): added ofm opt
