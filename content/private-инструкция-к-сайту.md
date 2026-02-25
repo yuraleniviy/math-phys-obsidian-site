@@ -19,7 +19,7 @@
 > ```
 > 10. Запушить В СВОЮ ВЕТКУ `git push origin название-ветки`.
 > 11. На гитхабе смерджить ветку учителя в staging
-> 12. Можно удалить ветку локально `git branch -D teacher/yuraleniviy`
+> 12. Можно удалить ветку локально `git branch -D teacher/yuraleniviy` (изменения пропадут, тк нужно будет переключиться в main, но их можно сразу опять стянуть с гитхаба `git checkout main` и `git pull origin main`)
 > 13. И с гитхаба тоже, чтобы много мертвых веток не плодилось `git push origin --delete teacher/yuraleniviy`
 
 # Приватность
