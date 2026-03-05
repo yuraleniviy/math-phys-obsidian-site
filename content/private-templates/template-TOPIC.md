@@ -1,5 +1,5 @@
 ---
-title: название темы
+title: "{{title}}"
 draft: false
 tags:
 ---
