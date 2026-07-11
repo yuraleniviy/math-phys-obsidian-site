@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # нужно для получения дат из Git
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -35,8 +35,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Install Quartz plugins          # <-- НОВЫЙ ШАГ
+        run: npx quartz plugin install
+
       - name: Build Quartz
-        run: npx quartz build 
+        run: npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
