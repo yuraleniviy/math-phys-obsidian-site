@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: yuraleniviy.github.io
+  baseUrl: yuraleniviy.github.io/math-phys-obsidian-site
   ignorePatterns:
     - private
     - templates
