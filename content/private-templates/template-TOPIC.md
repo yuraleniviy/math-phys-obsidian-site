@@ -3,7 +3,7 @@ title: "{{title}}"
 draft: false
 tags:
 ---
-## Теория
 
+## Теория
 
 ## Практика
