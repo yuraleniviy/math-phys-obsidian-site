@@ -11,10 +11,10 @@ permissions:
   deployments: write
 
 jobs:
-  deploy-v5:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+  deploy:
+    if: ${{ github.repository == 'yuraleniviy/math-phys-obsidian-site' }}
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Deploy to Cloudflare Pages
     steps:
       - uses: actions/checkout@v6
         with:
@@ -59,6 +59,6 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           projectName: quartz
-          deploymentName: v5 Branch Preview
-          branch: v5
+          deploymentName: main Branch Preview
+          branch: main
           directory: public
