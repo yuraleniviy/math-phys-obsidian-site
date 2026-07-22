@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: XALTYRA EDUCATION
+  pageTitle: XALTYRA
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: false
@@ -244,7 +244,7 @@ plugins:
       group: toolbar
 
   - source: github:quartz-community/breadcrumbs
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -296,6 +296,7 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+
 
 # ================== LAYOUT (Группы) ==================
 layout:
