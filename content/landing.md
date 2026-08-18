@@ -7,13 +7,15 @@ unlisted: true
 
 # Даниил Юрков
 
-![[репетитор.jpg | 300]]
+![[репетитор.png | 300]]
 
 Здравствуйте, меня зовут Даниил Юрков, я репетитор по математике, и вы попали на мой сайт!!
 
 #### Обо мне
 
 Я студент 4 курса МГТУ им. Н.Э. Баумана по специальности "Механика и математическое моделирование", преподаю алгебру и геометрию с 2022 года для ребят 7-9 классов, готовлю к ОГЭ.
+
+<div class="profi-widget" data-id="4e077466439b01c182490c370663375e" data-type="300x100">Powered by <a href="https://profi.ru/profile/YurkovDD3">Profi.ru</a></div><script src="https://profi.ru/jqs/widget/widget.js"></script>
 
 #### Результаты моих учеников
 
@@ -34,3 +36,7 @@ unlisted: true
 | Телеграм | [@yuraleniviy](https://t.me/yuraleniviy) |
 | Почта    | iamyuraleniviy@gmail.com                 |
 | WhatsApp | +7 (929) 565-08-42                       |
+
+
+
+
